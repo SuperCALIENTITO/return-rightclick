@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Enable Context Menu Wattpad
 // @version      0.1
-// @namespace     https://gist.github.com/SuperCALIENTITO/2cfc5117eaaad5200ffd25b451ad5d38
+// @namespace    https://github.com/SuperCALIENTITO/return-rightclick
+// @homespace    https://github.com/SuperCALIENTITO/return-rightclick
 // @description  Trae devuelta el menu de contexto a la pagina Wattpad
 // @author       Vicentefelipechile
 // @author       https://stackoverflow.com/users/1727984/user1727984
