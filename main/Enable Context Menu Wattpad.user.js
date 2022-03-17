@@ -9,6 +9,7 @@
 // @downloadURL  https://gist.githubusercontent.com/SuperCALIENTITO/2cfc5117eaaad5200ffd25b451ad5d38/raw/f1b648827abfce7f92a9ffae8ebf53289e694acc/reenableRightClick.js
 // @updateURL    https://gist.githubusercontent.com/SuperCALIENTITO/2cfc5117eaaad5200ffd25b451ad5d38/raw/f1b648827abfce7f92a9ffae8ebf53289e694acc/reenableRightClick.js
 // @match        *.wattpad.com/*
+// @exclude      *.wattpad.com/myworks*
 // @grant        none
 // ==/UserScript==
 
