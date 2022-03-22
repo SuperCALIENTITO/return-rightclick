@@ -11,6 +11,10 @@
 // @updateURL    https://github.com/SuperCALIENTITO/return-rightclick/raw/main/main/Enable%20Context%20Menu%20Wattpad.user.js
 // @match        *.wattpad.com/*
 // @exclude      *.wattpad.com/myworks*
+// @exclude      *.wattpad.com/notifications*
+// @exclude      *.wattpad.com/library
+// @exclude      *.wattpad.com/archive
+// @exclude      *.wattpad.com/list
 // @grant        none
 // ==/UserScript==
 
