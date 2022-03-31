@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Enable Context Menu Wattpad
-// @version      0.2.6
+// @version      0.2.7
 // @namespace    https://github.com/SuperCALIENTITO/return-rightclick
 // @homepage     https://github.com/SuperCALIENTITO/return-rightclick
 // @description  Trae devuelta el menu de contexto a la pagina Wattpad
@@ -9,12 +9,7 @@
 // @icon         https://raw.githubusercontent.com/SuperCALIENTITO/return-rightclick/main/main/wattpad-logo.png
 // @downloadURL  https://github.com/SuperCALIENTITO/return-rightclick/raw/main/main/Enable%20Context%20Menu%20Wattpad.user.js
 // @updateURL    https://github.com/SuperCALIENTITO/return-rightclick/raw/main/main/Enable%20Context%20Menu%20Wattpad.user.js
-// @match        *.wattpad.com/*
-// @exclude      *.wattpad.com/myworks*
-// @exclude      *.wattpad.com/notifications*
-// @exclude      *.wattpad.com/library
-// @exclude      *.wattpad.com/archive
-// @exclude      *.wattpad.com/list
+// @match        www.wattpad.com/1*
 // @grant        none
 // ==/UserScript==
 
